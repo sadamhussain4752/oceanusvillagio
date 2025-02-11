@@ -85,6 +85,12 @@ header {
     width: 15%;
 }
 
+.back-vied{
+    height: 150px;
+    object-fit: cover;
+    width: 100%;
+}
+
 .img-w1 {
     width: 20%;
 }
